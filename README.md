@@ -1,10 +1,17 @@
-# 🚲 Bike Sharing Dataset Analysis
+# Customer Sales & RFM Analysis
 
-An end-to-end data analysis project uncovering insights from a bike sharing dataset using Python and Streamlit.
+## 📊 Overview
+This project involves analyzing customer, order, product, and sales data to extract key business insights. The analysis includes thorough data wrangling, exploratory data analysis (EDA), and customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
 
-## 📊 Project Summary
+## 🧠 Objectives
+- Identify trends and patterns in customer behavior and sales performance.
+- Segment customers based on loyalty using RFM metrics.
+- Provide actionable insights for marketing and business strategy.
 
-This project analyzes a bike sharing dataset to answer key business questions and derive actionable insights. Techniques such as data wrangling, exploratory data analysis (EDA), and data visualization were used to explore trends, user behaviors, and usage patterns.
+## 📌 Key Activities
+- 📂 **Data Wrangling**: Merged datasets, cleaned missing values, and converted data types.
+- 📈 **EDA**: Visualized trends, customer demographics, and product performance.
+- 🔍 **RFM Analysis**: Calculated Recency, Frequency, and Monetary metrics and performed customer segmentation.
 
 ## 📈 Dashboard
 

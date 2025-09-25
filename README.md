@@ -2,6 +2,7 @@
 
 ## 📊 Overview
 This project involves analyzing customer, order, product, and sales data to extract key business insights. The analysis includes thorough data wrangling, exploratory data analysis (EDA), and customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+<img src="preview.png" alt="Customer Sales Dashboard" width="50%"/>
 
 ## 🧠 Objectives
 - Identify trends and patterns in customer behavior and sales performance.
